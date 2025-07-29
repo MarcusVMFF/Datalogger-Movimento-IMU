@@ -45,7 +45,7 @@ O objetivo central é criar um dispositivo autônomo capaz de registrar dados de
 3.  **Montar o SD Card:** Pressione o **Botão B** (GPIO 6). O LED piscará amarelo e ficará **verde** se a montagem for bem-sucedida.
 4.  **Iniciar Gravação:** Pressione o **Botão A** (GPIO 5). O LED ficará **vermelho**, o buzzer soará intermitentemente, e o sistema gravará 100 amostras de dados no arquivo `mpu_data.csv`. Ao final, o LED voltará a ficar verde.
 5.  **Verificar Dados:** Pressione o **Botão do Joystick** (GPIO 22). O LED ficará **azul** e o conteúdo do arquivo `mpu_data.csv` será impresso no monitor serial.
-
+6. **Gerar Gráficos:** No terminal -> cd ArquivoDados -> python PlotaDados.py -> Será gerado gráficos dos valores do acalerômetro e do giroscópio, de acordo com o arquivo .csv da pasta.
 ---
 
 ## 📊 **Funcionalidades Demonstradas**

@@ -16,8 +16,7 @@ O objetivo central é criar um dispositivo autônomo capaz de registrar dados de
 ---
 
 ## 📊 **Video do Projeto:**
-[https://drive.google.com/file/d/1VasZNuEhWiXib4sgYcmhZDbZ_ZuNSg1S/view?usp=drive_li
-nk]
+[https://drive.google.com/file/d/1VasZNuEhWiXib4sgYcmhZDbZ_ZuNSg1S/view?usp=drive_link]
 
 ---
 
